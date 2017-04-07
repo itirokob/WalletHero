@@ -1,0 +1,21 @@
+PODS:
+  - HFSwipeView (1.2.0):
+    - PureLayout
+    - TinyLog
+  - PieCharts (0.0.5)
+  - PureLayout (3.0.2)
+  - TinyLog (1.0.1)
+
+DEPENDENCIES:
+  - HFSwipeView (~> 1.2.0)
+  - PieCharts (~> 0.0.5)
+
+SPEC CHECKSUMS:
+  HFSwipeView: f14aeabd91b75403681e7ac6add5a614eb1fa8f8
+  PieCharts: a0fb4784a3460088c8ba7dfb00b89784ddaa7e70
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  TinyLog: 6c3ecbc348d10dc242ebb506f684fc9ae6aff533
+
+PODFILE CHECKSUM: 8f585a515d8f4c81aaa2f596542cd2cfe9b51112
+
+COCOAPODS: 1.2.0
